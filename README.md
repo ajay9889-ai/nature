@@ -167,5 +167,13 @@ This project is licensed under the MIT License.
 ---
 ## vercel hosted link
 https://nature-kohl.vercel.app/
+## SnapShots
+<img width="2532" height="1380" alt="image" src="https://github.com/user-attachments/assets/2ce1e410-ce7c-48bb-944c-609aa55d6e21" />
+<img width="2498" height="1066" alt="image" src="https://github.com/user-attachments/assets/6e3e255f-286d-4f82-9d57-9ebf6b141def" />
+<img width="2523" height="1062" alt="image" src="https://github.com/user-attachments/assets/b2b5ea7f-5b16-401f-b5da-98605d3f7055" />
+<img width="2560" height="583" alt="image" src="https://github.com/user-attachments/assets/d727135c-8be3-4b4b-bc01-f43f53f90c3d" />
+
+
+
 
 Built with ❤️ for the timeless art of black and white photography.# nature
