@@ -122,10 +122,3 @@ Accessibility and UX best practices
 📄 License
 
 MIT
-
----
-
-If you want to go one level higher, I can:
-- Add **badges (Lighthouse score, tech stack icons)**  
-- Optimize it specifically for **GitHub recruiters scanning in 5 seconds**  
-- Or create a **1-line killer project description for your resume**
