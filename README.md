@@ -1,7 +1,3 @@
-Here’s your final polished README.md — clean, professional, and ready to paste into GitHub:
-
-
----
 
 # Monochrome — High-Performance Photography Homepage
 
